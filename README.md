@@ -94,13 +94,21 @@ else:
     print("Element found at index: ",result)
 
 ```
-## Sample Input and Output
+## Input 
 i) #Use a linear search method to match the item in a list.
+![image](https://user-images.githubusercontent.com/120353431/214833848-a1d9d0ed-3945-4afc-989b-41106e8caefa.png)
+ii) #Iterative method
+![image](https://user-images.githubusercontent.com/120353431/214834033-04d90f33-6abe-4828-a5a3-02c4417fbe3b.png)
+iii) #Recursive method
+![image](https://user-images.githubusercontent.com/120353431/214834147-e69afc80-f17f-4676-87f7-251c02bcb79f.png)
 
-
-
-
-
+## Output
+i)
+![image](https://user-images.githubusercontent.com/120353431/214834306-2a91f982-034a-4f1a-a46c-c115b99fb05e.png)
+ii)
+![image](https://user-images.githubusercontent.com/120353431/214834367-49786daa-532a-45c8-a25b-e9e871377c26.png)
+iii)
+![image](https://user-images.githubusercontent.com/120353431/214834512-9ae1e134-2825-4c7d-aa47-60ba0937536c.png)
 
 
 ## Result
